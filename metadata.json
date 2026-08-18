@@ -1,0 +1,6 @@
+{
+  "name": "로또 6/45 시뮬레이터 & 통계 분석기",
+  "description": "한국 로또 6/45 번호 자동 생성, 과거 데이터 기반 다각도 통계 분석 및 대량 추첨 시뮬레이션 웹 애플리케이션",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
